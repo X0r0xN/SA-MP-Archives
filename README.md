@@ -1,14 +1,31 @@
 # SA-MP File Archive
-The fork of the original repo, nothing else.
+The fork of the original repo, the purpose of this repo is just providing you easiest way to download the archive via github.
 
 Big thanks to KrustyKoyle and sa-mp-kr to actually made a backup for this :heart:
-
 
 # File List
 You can click each file below if you want to download it.
 
-## Patch downgrader
-* [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
+* [Client Archive](#client-archive)
+    * [VC-MP](#vc-mp)
+    * [LC-MP](#lc-mp)
+    * [0.1x](#01x)
+    * [0.3a to 0.3x](#03a-to-03x)
+    * [0.3z](#03z)
+    * [0.3.7](#037)
+    * [0.3.8/DL](#038dl)
+
+* [Server Archive](#server-archive)
+    * [VC-MP](#vc-mp-1)
+    * [LC-MP](#lc-mp-1)
+    * [0.1x](#01x-1)
+    * [0.3a to 0.3x](#03a-to-03x-1)
+    * [0.3z](#03z-1)
+    * [0.3.7](#037-1)
+    * [0.3.8/DL](#038dl-1)
+
+
+* [Others](#others)
 
 ## Client Archive
 
@@ -21,12 +38,13 @@ You can click each file below if you want to download it.
 * [sa-mp-0.3.8-RC4-3-install.exe](/archives/sa-mp-0.3.8-RC4-3-install.exe?raw=true)
 * [sa-mp-0.3.8-RC4-4-install.exe](/archives/sa-mp-0.3.8-RC4-4-install.exe?raw=true)
 
-
 ### 0.3.7
 * [sa-mp-0.3.7-install.exe](/archives/sa-mp-0.3.7-install.exe?raw=true)
 * [sa-mp-0.3.7-R2-install.exe](/archives/sa-mp-0.3.7-R2-install.exe?raw=true)
 * [sa-mp-0.3.7-R3-0-install.exe](/archives/sa-mp-0.3.7-R3-0-install.exe?raw=true)
 * [sa-mp-0.3.7-R3-1-install.exe](/archives/sa-mp-0.3.7-R3-1-install.exe?raw=true)
+* [sa-mp-0.3.7-R4-install.exe](/archives/sa-mp-0.3.7-R4-install.exe?raw=true)
+* [sa-mp-0.3.7-R5-1-install.exe](/archives/sa-mp-0.3.7-R5-1-install.exe?raw=true)
 
 ### 0.3z
 * [sa-mp-0.3z-R1-install.exe](/archives/sa-mp-0.3z-R1-install.exe?raw=true)
@@ -149,7 +167,7 @@ You can click each file below if you want to download it.
 * [vcmpsvr01b.tar.gz](/archives/vcmpsvr01b.tar.gz?raw=true)
 * [vcmpsvr01d.tar.gz](/archives/vcmpsvr01d.tar.gz?raw=true)
 
-### Others Archive
+## Others
+* [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
 * [browser-fix-01b.zip](/archives/browser-fix-01b.zip?raw=true)
 * [interiors.txt](/archives/interiors.txt?raw=true)
-
