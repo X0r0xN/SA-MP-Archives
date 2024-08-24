@@ -1,33 +1,33 @@
-# SA-MP File Archive
-The fork of the original repo, the purpose of this repo is just providing you easiest way to download the archive via github.
+# SA-MP 文件归档
+此 repo 是原始 repo 的fork，目的只是为你提供通过 GitHub 下载 SA-MP 归档的最简单办法。
 
-Big thanks to KrustyKoyle and sa-mp-kr to actually made a backup for this :heart:
+感谢 KrustyKoyle 以及 sa-mp-kr 为此整理了备份 :heart:
 
-# File List
-You can click each file below if you want to download it.
+# 文件列表
+如果你想下载某个你想要的文件，你可以单击下载
 
-* [Client Archive](#client-archive)
-    * [VC-MP](#vc-mp)
+* [客户端归档](#client-archive)
+    * [VC-MP(罪恶都市联机)](#vc-mp)
     * [LC-MP](#lc-mp)
     * [0.1x](#01x)
-    * [0.3a to 0.3x](#03a-to-03x)
+    * [0.3a 至 0.3x](#03a-to-03x)
     * [0.3z](#03z)
     * [0.3.7](#037)
     * [0.3.8/DL](#038dl)
 
-* [Server Archive](#server-archive)
-    * [VC-MP](#vc-mp-1)
+* [服务端归档](#server-archive)
+    * [VC-MP(罪恶都市联机)](#vc-mp-1)
     * [LC-MP](#lc-mp-1)
     * [0.1x](#01x-1)
-    * [0.3a to 0.3x](#03a-to-03x-1)
+    * [0.3a 至 0.3x](#03a-to-03x-1)
     * [0.3z](#03z-1)
     * [0.3.7](#037-1)
     * [0.3.8/DL](#038dl-1)
 
 
-* [Others](#others)
+* [其它](#others)
 
-## Client Archive
+## 客户端归档
 
 ### 0.3.8/DL
 * [sa-mp-0.3.DL-R1-install.exe](/archives/sa-mp-0.3.DL-R1-install.exe?raw=true)
@@ -50,7 +50,7 @@ You can click each file below if you want to download it.
 * [sa-mp-0.3z-R1-install.exe](/archives/sa-mp-0.3z-R1-install.exe?raw=true)
 * [sa-mp-0.3z-R2-install.exe](/archives/sa-mp-0.3z-R2-install.exe?raw=true)
  
-### 0.3a to 0.3x
+### 0.3a 至 0.3x
 * [sa-mp-0.3a-install.exe](/archives/sa-mp-0.3a-install.exe?raw=true)
 * [sa-mp-0.3c-R3-install.exe](/archives/sa-mp-0.3c-R3-install.exe?raw=true)
 * [sa-mp-0.3c-install.exe](/archives/sa-mp-0.3c-install.exe?raw=true)
@@ -65,12 +65,12 @@ You can click each file below if you want to download it.
 ### LC-MP
 * [lcmp01d.zip](/archives/lcmp01d.zip?raw=true)
 
-### VC-MP
+### VC-MP(罪恶都市联机)
 * [vcmp01a.zip](/archives/vcmp01a.zip?raw=true)
 * [vcmp01b.zip](/archives/vcmp01b.zip?raw=true)
 * [vcmp01d.zip](/archives/vcmp01d.zip?raw=true)
 
-## Server Archive
+## 服务端归档
 
 ### 0.3.8/DL
 * [samp03DL_svr_R1_win32.zip](/archives/samp03DL_svr_R1_win32.zip?raw=true)
@@ -104,7 +104,7 @@ You can click each file below if you want to download it.
 * [samp03zsvr_R4-1000p.tar.gz](/archives/samp03zsvr_R4-1000p.tar.gz?raw=true)
 * [samp03zsvr_R4.tar.gz](/archives/samp03zsvr_R4.tar.gz?raw=true)
 
-### 0.3a to 0.3x
+### 0.3a 至 0.3x
 * [samp03asvr_R4.tar.gz](/archives/samp03asvr_R4.tar.gz?raw=true)
 * [samp03asvr_R4_win32.zip](/archives/samp03asvr_R4_win32.zip?raw=true)
 * [samp03asvr_R7.tar.gz](/archives/samp03asvr_R7.tar.gz?raw=true)
@@ -162,12 +162,12 @@ You can click each file below if you want to download it.
 ### LC-MP
 * [lcmpsvr01d.tar.gz](/archives/lcmpsvr01d.tar.gz?raw=true)
 
-### VC-MP
+### VC-MP(罪恶都市联机)
 * [vcmpsvr01a.tar.gz](/archives/vcmpsvr01a.tar.gz?raw=true)
 * [vcmpsvr01b.tar.gz](/archives/vcmpsvr01b.tar.gz?raw=true)
 * [vcmpsvr01d.tar.gz](/archives/vcmpsvr01d.tar.gz?raw=true)
 
-## Others
+## 其它
 * [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
 * [browser-fix-01b.zip](/archives/browser-fix-01b.zip?raw=true)
 * [interiors.txt](/archives/interiors.txt?raw=true)
