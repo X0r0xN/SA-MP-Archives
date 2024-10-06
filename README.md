@@ -1,7 +1,7 @@
 # SA-MP 文件归档
 此 repo 是原始 repo 的fork，目的只是为你提供通过 GitHub 下载 SA-MP 归档的最简单办法。
 
-感谢 KrustyKoyle 以及 sa-mp-kr 为此整理了备份 :heart:
+感谢 KrustyKoyle, sa-mp-kr, X0r0xN 为此整理了备份 :heart:
 
 # 文件列表
 如果你想下载某个你想要的文件，你可以单击下载
@@ -27,19 +27,20 @@
     * [0.3.8/DL](#038dl-1)
 
 
-* [其它](#others)
+* [其它文件](#others)
 
 ## 客户端归档
 
 ### 0.3.8/DL
 * [sa-mp-0.3.DL-R1-install.exe](/archives/sa-mp-0.3.DL-R1-install.exe?raw=true)
+* [sa-mp-0.3.DL-R1-2-MP-install.exe](/archives/sa-mp-0.3.DL-R1-2-MP-install.exe?raw=true)
 * [sa-mp-0.3.8-RC1-install.exe](/archives/sa-mp-0.3.8-RC1-install.exe?raw=true)
 * [sa-mp-0.3.8-RC2-install.exe](/archives/sa-mp-0.3.8-RC2-install.exe?raw=true)
 * [sa-mp-0.3.8-RC3-3-install.exe](/archives/sa-mp-0.3.8-RC3-3-install.exe?raw=true)
 * [sa-mp-0.3.8-RC3-4-install.exe](/archives/sa-mp-0.3.8-RC3-4-install.exe?raw=true)
 * [sa-mp-0.3.8-RC4-3-install.exe](/archives/sa-mp-0.3.8-RC4-3-install.exe?raw=true)
 * [sa-mp-0.3.8-RC4-4-install.exe](/archives/sa-mp-0.3.8-RC4-4-install.exe?raw=true)
-
+  
 ### 0.3.7
 * [sa-mp-0.3.7-install.exe](/archives/sa-mp-0.3.7-install.exe?raw=true)
 * [sa-mp-0.3.7-R2-install.exe](/archives/sa-mp-0.3.7-R2-install.exe?raw=true)
@@ -47,6 +48,7 @@
 * [sa-mp-0.3.7-R3-1-install.exe](/archives/sa-mp-0.3.7-R3-1-install.exe?raw=true)
 * [sa-mp-0.3.7-R4-install.exe](/archives/sa-mp-0.3.7-R4-install.exe?raw=true)
 * [sa-mp-0.3.7-R5-1-install.exe](/archives/sa-mp-0.3.7-R5-1-install.exe?raw=true)
+* [sa-mp-0.3.7-R5-2-MP-install.exe](/archives/sa-mp-0.3.7-R5-2-MP-install.exe?raw=true)
 
 ### 0.3z
 * [sa-mp-0.3z-R1-install.exe](/archives/sa-mp-0.3z-R1-install.exe?raw=true)
