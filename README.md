@@ -1,12 +1,12 @@
-# SA-MP 文件归档
-此 repo 是原始 repo 的fork，目的只是为你提供通过 GitHub 下载 SA-MP 归档的最简单办法。
+# GTA Series MP 文件归档
+此 repo 是原始 repo 的fork，目的只是为你提供通过 GitHub 下载 GTA系列的MP 归档的最简单办法。
 
 感谢 KrustyKoyle, sa-mp-kr, X0r0xN 为此整理了备份 :heart:
 
 # 文件列表
 如果你想下载某个你想要的文件，你可以单击下载
 
-通常，0.3.7和0.3.DL版本将会是较多玩家在使用的。
+我认为目前最流行的联机服务器是SA-MP。0.3.7和0.3.DL版本将会是较多玩家在使用的。
 
 * [客户端归档](#client-archive)
     * [VC-MP(罪恶都市联机)](#vc-mp)
